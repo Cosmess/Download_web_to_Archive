@@ -1,0 +1,2 @@
+# Essa ferramenta serve para download de paginas em diversos formatos, desde que o arquivo de criado
+# seja correspondente a pagina de origem, exemplo: wwww.pagina.com.br/arquivo.pdf ===> arquivo_de_destino_pdf
